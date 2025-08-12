@@ -1,97 +1,78 @@
-📚 Conteúdo
-Introdução
+# 📘 Aprendendo Python
 
-História do Python
+Repositório com exemplos, exercícios e anotações para aprender Python do **zero** até o **nível intermediário**.  
+> 🎯 **Objetivo:** criar uma base sólida em Python para projetos futuros.
 
-Instalação e configuração
+---
 
-Primeiro script
+## 📚 Conteúdo
 
-Fundamentos
+1. **[Introdução](./01-introducao/)**
+   - História do Python  
+   - Instalação e configuração  
+   - Primeiro script  
 
-Tipos de dados
+2. **[Fundamentos](./02-fundamentos/)**
+   - Tipos de dados  
+   - Variáveis  
+   - Operadores  
 
-Variáveis
+3. **[Estruturas de Controle](./03-estruturas-de-controle/)**
+   - `if`, `else`, `elif`  
+   - Loops `for` e `while`  
 
-Operadores
+4. **[Funções](./04-funcoes/)**
+   - Definição e parâmetros  
+   - Retorno de valores  
 
-Estruturas de Controle
+5. **[Listas, Tuplas e Dicionários](./05-colecoes/)**
 
-if, else, elif
+6. **[Manipulação de Arquivos](./06-manipulacao-de-arquivos/)**
 
-Loops for e while
+7. **[Módulos e Pacotes](./07-modulos-pacotes/)**
 
-Funções
+8. **[Programação Orientada a Objetos](./08-poo/)**
 
-Definição e parâmetros
+9. **[Projetos Práticos](./09-projetos/)**
+   - Calculadora  
+   - Jogo da Forca  
+   - Analisador de Texto  
 
-Retorno de valores
+---
 
-Listas, Tuplas e Dicionários
+## 📅 Cronograma de Estudos — 30 Dias
 
-Manipulação de Arquivos
+| Dia  | Tema | Pasta |
+|------|------|-------|
+| 1    | Introdução ao Python | [01-introducao](./01-introducao/) |
+| 2-3  | Tipos de dados e variáveis | [02-fundamentos](./02-fundamentos/) |
+| 4-5  | Operadores | [02-fundamentos](./02-fundamentos/) |
+| 6-7  | Estruturas condicionais (`if/else`) | [03-estruturas-de-controle](./03-estruturas-de-controle/) |
+| 8-9  | Loops (`for`/`while`) | [03-estruturas-de-controle](./03-estruturas-de-controle/) |
+| 10-12 | Funções | [04-funcoes](./04-funcoes/) |
+| 13-15 | Listas, Tuplas e Dicionários | [05-colecoes](./05-colecoes/) |
+| 16-18 | Manipulação de arquivos | [06-manipulacao-de-arquivos](./06-manipulacao-de-arquivos/) |
+| 19-20 | Módulos e pacotes | [07-modulos-pacotes](./07-modulos-pacotes/) |
+| 21-25 | Programação Orientada a Objetos | [08-poo](./08-poo/) |
+| 26-30 | Projetos práticos | [09-projetos](./09-projetos/) |
 
-Módulos e Pacotes
+---
 
-Programação Orientada a Objetos
+## 🚀 Requisitos
 
-Projetos Práticos
+- Python **3.10** ou superior  
+- Editor de texto (VS Code recomendado)  
 
-Calculadora
+📥 **Instalação:**  
+- [Baixar Python](https://www.python.org/downloads/)  
+- [Baixar VS Code](https://code.visualstudio.com/)
 
-Jogo da Forca
+---
 
-Analisador de Texto
+## 📦 Como usar
 
-📅 Cronograma de Estudos — 30 Dias
-Dia	Tema	Pasta
-1	Introdução ao Python	01-introducao
-2-3	Tipos de dados e variáveis	02-fundamentos
-4-5	Operadores	02-fundamentos
-6-7	Estruturas condicionais (if/else)	03-estruturas-de-controle
-8-9	Loops (for/while)	03-estruturas-de-controle
-10-12	Funções	04-funcoes
-13-15	Listas, Tuplas e Dicionários	05-colecoes
-16-18	Manipulação de arquivos	06-manipulacao-de-arquivos
-19-20	Módulos e pacotes	07-modulos-pacotes
-21-25	Programação Orientada a Objetos	08-poo
-26-30	Projetos práticos	09-projetos
-
-🚀 Requisitos
-Python 3.10 ou superior
-
-Editor de texto (VS Code recomendado)
-
-Instale o Python: python.org/downloads
-Instale o VS Code: code.visualstudio.com
-
-📦 Como usar
 Clone o repositório:
 
-bash
-Copiar
-Editar
+```bash
 git clone https://github.com/seu-usuario/aprendendo-python.git
 cd aprendendo-python
-Abra a pasta no VS Code e explore as aulas na ordem do cronograma.
-
-▶️ Executando um exemplo
-Dentro de qualquer pasta de aula:
-
-bash
-Copiar
-Editar
-python exemplo.py
-🧠 Como estudar
-Leia os exemplos
-
-Modifique o código para testar hipóteses
-
-Resolva os exercícios
-
-Faça o desafio do final de cada módulo
-
-📄 Licença
-Este conteúdo é livre para uso pessoal e educacional.
-
-
